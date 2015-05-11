@@ -1,7 +1,7 @@
 
 ## To save some computations in computing matrix inverses
 ## this program stores the matrix's inverse. 
-## A noramal matrix is transformed into a CacheMatrix 
+## makeCacheMAtrix makes a matrix that can store its inverse 
 ##CacheSolve calculates the inverse only if the matrix's cache is not available
 
 ## Returns a list of functions needed to convert a matrix 
